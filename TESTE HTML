@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aula CSS</title>
+    <!-- (style em baixo de tittle) utilizar css fora do codigo html-->
+    <style>
+        p{
+            color: gray;
+        }
+    </style>
+</head>
+<body>
+
+    <P  style="color: aqua;"">Eu sou o Paragrafo Azul</P>
+    <p style="color: red;">Eu sou o Paragrafo vermelho</p>
+
+</body>
