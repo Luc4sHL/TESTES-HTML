@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>mudança de cor</title>
+    <style>
+        p{
+            color: darkmagenta;
+        }
+    </style>
+</head>
+<body>
+    <h1>Sobre o Futebol</h1>
+    <p style="color: blueviolet;">O futebol é um esporte coletivo praticado por duas equipes de 11 jogadores, cujo objetivo principal é marcar gols, fazendo com que a bola ultrapasse a linha do gol adversário, sem o uso das mãos e braços. É um esporte popular em todo o mundo, com regras e fundamentos técnicos que são seguidos globalmente.</p>
+    <hr>
+    <h1>Sobre o Voleibal</h1>
+    <p>O voleibol é um esporte coletivo jogado entre duas equipes em uma quadra retangular dividida por uma rede. O objetivo principal é fazer com que a bola toque o chão do campo adversário, evitando que a bola toque o chão do seu próprio campo, e utilizando no máximo três toques na bola antes de enviá-la para o outro lado.</p>
+</body>
+</html>
