@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SOBRE MIM</title>
+</head>
+<body>
+    <h1 style="text-align: center;">Lucas Henrry Lima Paiva</h1>
+    <hr>
+    <p style="text-align: center;">Ola me chamo lucas tenho 20 anos e moro em Santa Luzia /MG, sou casado e tambem sou Cristao
+         e meu sonho e ter uma familia que busca o Senhor.
+          Gosto de praticar muitos esportes mais o pricipal deles é o futbol,
+           desde criança meu pai sempre me incentivava a jogar bola e graças a ele e o meu esporte
+            preferido. Meu alvo neste mundo e espalhar as boas novas que Jesus Cristo trouxe para nos,
+             para aqueles que necessitam do seu amor e da sua misericordia, 
+             obs: espalhar esse amor para aqueles que desejam ja os que nao desejam eu nao os julgo, 
+             cada um segue a crença que deseja.</p>
+    <ul>
+        <li>Passar o tempo com minha Esposa</li>
+        <li>Passar um tempo conversando com minha familia</li>
+        <li>Ter um momento de comunhao com Deus</li>
+        <li>Ter um momento de comunhao com meus amigos e discutir sobre o Cristianismo</li>
+        <li>Jogar futbol</li>
+        <li>Jogar jogos no Pc</li>
+        <li>Gosto de estudar programaçao</li>
+    </ul>
+    <hr>
+
+    <!-- Usei um gif no lugar da foto de perfil pois estava sem ideia -->
+    <h2  style="color: red;">Um meme pra descontrair</h2>
+        <a href="https://emoji.house/discord/ronaldo-drink" target="_blank">
+    <!-- style="display: block; margin: 0 auto (usado para centralizar imagem)  -->
+        <img src="Ronaldomeme.gif" width="250" height="200" style="display: block; margin: 0 auto" > 
+        </a>
+    <hr>
+    <h2 style="text-align: center;">Click para ir ao meu site favorito</h2>
+        <a hef="https://www.youtube.com" target="_blank"><button style="display: block; margin: 0 auto">CLICK</button></a>
+        
+</body>
+</html>
