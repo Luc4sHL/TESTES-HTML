@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="estilo.css">
+</head>
+<body>
+    <p>Eu sou o brown</p>
+
+    <p class="cor-paragrafo-classe">Eu sou o burlywood</p>
+
+    <p id="cor-paragrafo-id">Eu sou rosa</p>
+
+</body>
+</html>
+-------------------------------------------------------------------------------------------------------------
+
+p{
+    color: brown;
+}
+
+.cor-paragrafo-classe{
+    color: burlywood;
+}
+
+#cor-paragrafo-id{
+    color: deeppink;
+}
