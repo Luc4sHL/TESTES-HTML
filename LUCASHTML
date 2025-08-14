@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pagina Lucas/Testes</title>
+</head>
+    <!--Comnetario-->
+<body>
+<h1>Eclipse Solar</h1>
+
+<!--(hr) utilizado para criar uma linha na vertical na tela-->
+
+<hr>
+<h2>Essa e uma imagem criada por uma IA de uma Eclipse Solar.</h2>
+<a href="https://pixabay.com/pt/illustrations/eclipse-sol-espa%C3%A7o-lua-planeta-1492818/" target="_blank">
+    <img src="imagem.jpg" width "200" height="200">
+</a>
+
+<br>
+<h2>Podemos observer esse fenomeno atravez de um telescopio.</h2>
+<a href="https://pixabay.com/pt/vectors/garoto-telesc%C3%B3pio-silhueta-8678052/" target="_blank">
+    <img src="boy.png" width "150" height="150">
+</a>
+<h1>Sobre o Eclipse Solar.</h1>
+<br>
+<p>O eclipse solar ocorre quando a Lua se coloca entre nosso planeta e o Sol, projetando sua sombra sobre a Terra. Eclipses solares estão entre os fenômenos astronômicos mais interessantes de serem observados, mas não ocorrem com tanta frequência.</p>
+<a href="https://gifer.com/pt/Xlob" target="_blank">
+    <img src="eclipse.gif" width="300"  height="200"" >
+</a>
+</body>
+</html>
